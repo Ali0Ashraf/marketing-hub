@@ -1,0 +1,2 @@
+run app server :cd "F:\Marketing Project V2\VS code"
+run streamlit :python -m streamlit run App.py
